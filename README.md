@@ -1,1 +1,1 @@
-# KU Programming Club Weekly Problems <br> 2015-2016
+# KU Programming Club <br >Weekly Problems: 2015-2016
