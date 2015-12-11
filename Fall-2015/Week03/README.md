@@ -151,7 +151,7 @@ zeroes if you want to.
 
 <br>
 
-## Hard - Chester, the Greedy Pomeranian
+## Advanced - Chester, the Greedy Pomeranian
 __*Source*__: https://www.reddit.com/r/dailyprogrammer/comments/3629st/20150515_challenge_214_hard_chester_the_greedy/
 
 Chester is a very spirited young Pomeranian that lives in a pen that exactly
