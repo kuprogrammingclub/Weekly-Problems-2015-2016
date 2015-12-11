@@ -1,10 +1,4 @@
-# Week 6 - Wednesday, 2 December 2015
-
-
-## Beginner - TBA
-__Source__: TBA
-<br>
-
+# Week 6 - 2015 December 2
 
 ## Intermediate 1 - VHS Recording Problem
 __Source__: https://www.reddit.com/r/dailyprogrammer/comments/3u6o56/20151118_challenge_242_intermediate_vhs_recording/
@@ -96,7 +90,3 @@ There are no duplicate numbers.<br>
 1 2 3 5 7 8 9
 ```
 <br>
-
-
-## Hard - TBA
-__Source__: TBA

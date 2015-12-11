@@ -1,4 +1,4 @@
-# Week 2
+# Week 2 - 2015 September 16
 
 ## Beginner 1 - Funny String
 __*Source*__: https://www.hackerrank.com/challenges/funny-string

@@ -1,4 +1,4 @@
-# Week 4
+# Week 4 - 2015 October 14
 
 ## Beginner - Library Fine
 __Source__: https://www.hackerrank.com/challenges/library-fine/

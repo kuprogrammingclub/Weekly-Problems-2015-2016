@@ -1,4 +1,4 @@
-# Week 5
+# Week 5 - 2015 November 11
 
 
 ## Beginner - Evaluating e<sup>x</sup>
@@ -129,7 +129,7 @@ overlap so that guesses reveal as little information to the player as possible.
 <br>
 
 
-## Hard - Divisible by 7
+## Advanced - Divisible by 7
 __Source__: https://www.reddit.com/r/dailyprogrammer/comments/3irzsi/20150828_challenge_229_hard_divisible_by_7/
 
 Consider positive integers that are divisible by 7, and are also divisible by 7

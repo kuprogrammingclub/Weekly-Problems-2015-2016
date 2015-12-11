@@ -1,4 +1,4 @@
-# Week 3
+# Week 3 - 2015 September 30
 
 ## Beginner - Letters in Alphabetical order
 __*Source*__: https://www.reddit.com/r/dailyprogrammer/comments/3h9pde/20150817_challenge_228_easy_letters_in/

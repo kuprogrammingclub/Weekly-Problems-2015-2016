@@ -1,4 +1,4 @@
-﻿# Week 1
+# Week 1 - 2015 September 2
 
 ## Beginner 1
 
