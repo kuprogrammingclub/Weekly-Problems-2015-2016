@@ -5,7 +5,7 @@
 This repository provides a home for the KU Programming Group's weekly problems
 for the 2015-2016 school year. Solutions created by members may be committed into
 the corresponding problem's folder as a subfolder named after the committer.<br>
-e.g. /Weekly-Problems-2015-2016/Week01/Beginner2/jdoe.java
+e.g. /Weekly-Problems-2015-2016/Week01_Sep02/Beginner2/jdoe/prog.java
 
 
 
