@@ -1,0 +1,23 @@
+## Intermediate 2 - ...
+__Source__: ...
+
+[DESCRIPTION]
+
+#### Input Description
+...
+
+#### Output Format
+...
+
+#### Constraints
+...
+
+#### Sample Input
+```
+...
+```
+
+#### Sample Output
+```
+...
+```
