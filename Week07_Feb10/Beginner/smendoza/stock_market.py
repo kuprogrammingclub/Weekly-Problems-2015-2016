@@ -32,4 +32,7 @@ for i in range(0, len(data)):
         high = data[i]
         high_index = i
 
-print(low, high)
+if high < low:
+    print("The stock price is plummeting!!!")
+else:
+    print(low, high)
