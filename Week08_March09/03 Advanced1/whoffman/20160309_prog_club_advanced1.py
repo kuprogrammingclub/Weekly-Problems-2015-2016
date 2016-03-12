@@ -54,7 +54,6 @@ for i, k in substring_dict.items():
             common.add(i)
     if len(marked) == len(sayings):
         print(common)
-        print(marked)
         exit(1)
 if len(marked) != len(sayings):
     print("Could not find a solution")
