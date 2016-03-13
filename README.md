@@ -1,7 +1,7 @@
 # KU Programming Club <br> 2015-2016
 
 ### <u>Meeting Information</u><br>
-#### Date: Wednesday, February 10<br>Time: 7:00pm<br>Place: LEEP2 G415
+#### Date: Wednesday, March 23<br>Time: 7:00pm<br>Place: 1136 Learned
 <br>
 This repository provides a home for the KU Programming Group's weekly problems
 for the 2015-2016 school year. Solutions created by members may be committed into
@@ -189,4 +189,4 @@ See below:
 -   Wells Fargo - https://www.wellsfargo.com/about/careers/mbas-and-undergrads/undergrads/
 
 
-##### Know any other resources or internship opportunities you'd like to share? Email us at: programming-club@ku.edu
+##### Know any other resources or internship opportunities you'd like to share? Email us at: kuprogrammingclub@gmail.com
