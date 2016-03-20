@@ -42,12 +42,11 @@ see what's on the top of the stack.
 Your goal is to implement a stack with *push* and *pop* functions. *Push* pushes
 an item onto the top of a stack and we will implement *Pop* as a way to take the
 top item off (permanently) and while returning the object you're removing.
-An alternative to this is to also implement a *Peek* function. In this
+An alternative to this is to also implement a *Peek* functions. In this
 implementation, we can have *Peek* used to return what value is at the top of the
 stack without removing that object. In this implementation, *Pop* doesn't
 necessarily have to return the object at the top of the stack, but can be
 implemented in such a way if you know you'll want the value you're removing when
 you pop the stack.
 
-For more (detailed) information on stacks, check out the
-[Wikipedia page](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)!
+For more (detailed) information on stacks, check out the <a href=https://en.wikipedia.org/wiki/Stack_(abstract_data_type)>Wikipedia page</a>!
