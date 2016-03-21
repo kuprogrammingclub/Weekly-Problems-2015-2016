@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
 <body>
   <h2>Beginner 2 - Mergesort</h2>
   <p><b>Source</b>: <a href=http://bit.ly/1LBjcIy>http://bit.ly/1LBjcIy</a></p>
@@ -22,5 +19,3 @@
   <p>For more information on how mergesort works, check out its
     <a href=https://en.wikipedia.org/wiki/Merge_sort>Wikpedia page!</a></p>
 </body>
-
-</html>
